@@ -11,24 +11,28 @@ He podido personalizar esta página que incluye una foto de perfil de mí (la de
 
 Primera parte de la página web:
 
-![Primera parte de la página web]![image](https://github.com/Natalia1445/Portafolio-personal-NEO/assets/90107255/0256dfa7-c3e6-4fef-9145-6aed11f04fc8)
+![image](https://github.com/Natalia1445/Portafolio-personal-NEO/assets/90107255/0256dfa7-c3e6-4fef-9145-6aed11f04fc8)
 
 
 Experiencia:
 
-![Experiencia](imagenes/screenshot2.png)
+![image](https://github.com/Natalia1445/Portafolio-personal-NEO/assets/90107255/a2e8c6ac-0d20-4837-b72e-d88363be8742)
+
 
 Proyectos:
 
-![Proyectos](imagenes/screenshot3.png)
+![image](https://github.com/Natalia1445/Portafolio-personal-NEO/assets/90107255/60cc5a0c-f254-4a28-aaed-de2559de884c)
+
 
 Testimonios:
 
-![Testimonios](imagenes/screenshot4.png)
+![image](https://github.com/Natalia1445/Portafolio-personal-NEO/assets/90107255/1c70518a-89b3-4f7d-be01-f0e1d7956cff)
+
 
 Contacto:
 
-![Contacto](imagenes/screenshot5.png)
+![image](https://github.com/Natalia1445/Portafolio-personal-NEO/assets/90107255/8273e188-b9f0-4a99-9ca0-daa2b5ca8196)
+
 
 ## Tecnologías
 
