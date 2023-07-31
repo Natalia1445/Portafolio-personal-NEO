@@ -27,6 +27,7 @@ h1 {
 .seccion-oscura {
   color: white;
   background-color: #65b38c;
+  font-family: 'Righteous';
 }
 
 .seccion-clara {
@@ -143,6 +144,9 @@ h1 {
 }
 
 /* Proyectos */
+.seccion-titulo {
+  font-family: 'Righteous';
+}
 
 .proyectos-recientes {
   padding: 40px;
