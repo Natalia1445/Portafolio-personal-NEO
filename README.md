@@ -11,7 +11,8 @@ He podido personalizar esta página que incluye una foto de perfil de mí (la de
 
 Primera parte de la página web:
 
-![Primera parte de la página web](imagenes/screenshot1.png)
+![Primera parte de la página web]![image](https://github.com/Natalia1445/Portafolio-personal-NEO/assets/90107255/0256dfa7-c3e6-4fef-9145-6aed11f04fc8)
+
 
 Experiencia:
 
